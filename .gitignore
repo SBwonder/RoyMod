@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+.vs/
+*.bnk
+*.wav
+*.fbx
+*.blend
+AssetBundles/
+roybundle*
+libs/
